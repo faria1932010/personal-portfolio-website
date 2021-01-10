@@ -179,7 +179,7 @@ section.chat{
 }
 
 .bg-img{
-    background-image: url("/images/bg.png");
+    background-image: url("images/bg.png");
     width: 50%;
     margin-left: 24%;
     height: 110px;
